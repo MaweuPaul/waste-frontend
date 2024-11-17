@@ -14,7 +14,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-geosearch/dist/geosearch.css';
 import 'leaflet-draw/dist/leaflet.draw.css';
-import 'leaflet-fullscreen/dist/Leaflet.fullscreen.css';
+import 'leaflet-fullscreen/dist/leaflet.fullscreen.css';
 import 'leaflet-fullscreen';
 
 // Fix for default marker icons
