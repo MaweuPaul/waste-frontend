@@ -8,8 +8,8 @@ function Navbar() {
     { path: '/report', label: 'Report Issue' },
     { path: '/schedule', label: 'Collection Schedule' },
     { path: '/special-requests', label: 'Special Pickup' },
-    { path: '/my-reports', label: 'My Reports' },
-    { path: '/education', label: 'Recycling Guide' },
+    // { path: '/my-reports', label: 'My Reports' },
+    // { path: '/education', label: 'Recycling Guide' },
   ];
 
   return (
