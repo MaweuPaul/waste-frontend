@@ -79,7 +79,7 @@ function Home() {
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed max-w-2xl">
                 Join us in keeping Nyeri County clean through efficient waste
-                management, community participation, and sustainable practices.
+                management, community participation and sustainable practices.
               </p>
             </motion.div>
 
